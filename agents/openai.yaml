@@ -1,0 +1,4 @@
+interface:
+  display_name: "抖音对标账号建模"
+  short_description: "从一条抖音拆解作者最新十条作品，生成可用于新账号创作的专属技能"
+  default_prompt: "用 $build-douyin-benchmark 从这条抖音作品拆解作者，并为我的新账号生成创作 Skill。"
